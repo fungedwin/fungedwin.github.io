@@ -1,6 +1,6 @@
 title: "Puppy Kidney Disease"
 author: "Edwin Fung"
-description: "Disclaimer: I am not a veterinarian, nutritionist, or animal behavior specialist. I created this website to share my own experiences and learnings as a first-time dog-owner, supporting a puppy with kidney disease. I do not charge any money for any information on this website. Opinions expressed on this website are that of my own and should not be taken as medical advice. This website is not intended to be used to diagnose or treat any dog.   Please consult your veterinarian for their professional opinion on how to best support your dog."
+description: "Disclaimer:"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -21,7 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Useful Links"}
   - {file: "About.md", title: "About"}
 
-#external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
+external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
 #  - {title: Mail, icon: envelope, url: "mailto:fungedwin@users.noreply.github.com"}
 #  - {title: Github, icon: github, url: "https://github.com/fungedwin"}
 #  - {title: Subscribe, icon: rss, url: "/feed.xml"}
