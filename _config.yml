@@ -18,8 +18,8 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "blog.html", title: "Posts"}
   - {file: "journey.md", title: "Arlo's Journey"}
-  - {title: "Useful Links"}
-  - {file: "About.md", title: "About"}
+  - {file: "useful-links.md", title: "Useful Links"}
+  - {file: "index.html", title: "About"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:fungedwin@users.noreply.github.com"}
