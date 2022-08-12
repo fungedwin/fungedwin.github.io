@@ -39,3 +39,12 @@ Kidney disease staging definitions and suggested treatment plan by IRIS (Interna
 [Canine Kidney Disease](https://www.facebook.com/groups/211455130573)
 
 [Dogs with renal failure and kidney disease](https://www.facebook.com/groups/582094775463298)
+
+**Books**
+
+[The Royal Treatment: A Natural Approach to Wildly Healthy Pets](https://www.amazon.com/Royal-Treatment-Natural-Approach-Healthy/dp/1451647700/ref=sr_1_1)
+
+[Raw & Natural Nutrition for Dogs: The Definitive Guide to Homemade Meals](https://www.amazon.com/Raw-Natural-Nutrition-Dogs-Revised/dp/158394947X/ref=sr_1_1)
+
+[The Forever Dog: Surprising New Science to Help Your Canine Companion Live Younger, Healthier, and Longer](https://www.amazon.com/Forever-Dog-Surprising-Companion-Healthier/dp/0063002604/ref=sr_1_1)
+
