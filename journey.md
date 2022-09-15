@@ -5,7 +5,7 @@ title: "Arlo's Journey - Part 1: Beginnings & Diagnosis"
 I had for many years dreamed of being a whippet dog owner and was finally blessed with becoming one when Arlo came into my life in January 2022.  He came home at 16 weeks old (born in September 2021).  He was the smallest of his siblings and was born underweight, but apart from being skinny (even for a whippet), appeared normal. Being a first-time dog parent, I was worried about him being underweight and closely monitored his eating every day to make sure he was growing properly. We went regularly to the vet to get various vaccinations and the vets were not concerned about Arlo’s weight. At home, we were busy bonding, potty training and helping him adjust to city-living.  Arlo was a shy, timid puppy, but loved snuggling together on the couch or bed. 
 <div style="text-align:center">
 <img src="/assets/images/arlo_journey1a.jpeg" width="250"/>
-<i>Arlo at 16 weeks*</i>
+<br><i>Arlo at 16 weeks</i>
 </div>
 
 Arlo was never an eager eater. I tried to keep him on a 3-meal-a-day schedule, but he would often not eat his food during “mealtimes”. This was heartbreaking as he was already underweight.  I resulted to offering food every few hours to encourage him to eat whenever he felt like it. After much encouragement throughout the day, Arlo generally finished (or close to finished) his food by the end of the day. As the weeks went on, Arlo continued to grow and gain some weight but remained underweight. Occasionally Arlo would regurgitate water right after drinking, or would vomit bile in the morning, but his vets were not concerned. 
