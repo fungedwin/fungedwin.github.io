@@ -3,6 +3,7 @@ layout: post
 title: "Arlo's Journey - Part 1: Beginnings & Diagnosis"
 ---
 I had for many years dreamed of being a whippet dog owner and was finally blessed with becoming one when Arlo came into my life in January 2022.  He came home at 16 weeks old (born in September 2021).  He was the smallest of his siblings and was born underweight, but apart from being skinny (even for a whippet), appeared normal. Being a first-time dog parent, I was worried about him being underweight and closely monitored his eating every day to make sure he was growing properly. We went regularly to the vet to get various vaccinations and the vets were not concerned about Arlo’s weight. At home, we were busy bonding, potty training and helping him adjust to city-living.  Arlo was a shy, timid puppy, but loved snuggling together on the couch or bed. 
+
 [<img src="/assets/images/arlo_journey1a.jpeg" width="250"/>](/assets/images/arlo_journey1a.jpeg)
 *Arlo at 16 weeks*
 
