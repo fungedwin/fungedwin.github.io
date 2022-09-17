@@ -3,8 +3,6 @@ title: "What is Renal Dysplasia?"
 layout: post
 ---
 
-## What is it?
-
 Renal dysplasia is a congenital condition where either one or both of the puppy’s kidneys were not formed properly in the womb. It’s a hereditary disease though the exact hereditary dynamics are not well understood and there are no DNA tests available. It is often diagnosed in puppies (< 1 years old). Dogs with renal dysplasia have significantly lower kidney function compared to a normal dog and is considered to have Chronic Kidney Disease (CKD). 
 
 ## What are some common symptoms?
