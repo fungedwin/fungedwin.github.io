@@ -25,17 +25,18 @@ Like other dog owners supporting dogs with kidney disease, I’ve tried many thi
 
 ### Enticing with food
 
-Ideally I would like to get Arlo to eat using food instead of medication. Here’s a list of things I’ve tried. Many of these may not be considered “healthy” for a dog with kidney disease, but I believe it’s worth trying as most will generally agree that it is better for a dog to eat something than nothing. 
+Ideally I would like to get Arlo to eat using food instead of medication. Here’s a list of things I’ve tried. Many of these items can separately be considered "treats", and Arlo will generally (but not always) take some treats even if he has a low appetite. Many of these may not be considered “healthy” for a dog with kidney disease, but I believe it’s worth trying as most will generally agree that it is better for a dog to eat something than nothing. 
 
 - **Adding Meal Mixers** - This works sometimes. I’ve tried adding a variety of meal mixers onto his meals.  He would often take a few more small bites or lick the meal mixers, but wouldn’t necessarily eat his meals. 
 - **Cat treats** - Arlo LOVES cat treats/food. I’m hesitant to give Arlo too much cat food, even though he likes them, because I’m worried that they’re not appropriate for dogs. I also worry that the more I give him, the less likely he’ll eat dog food. I’ve read that dogs generally do like cat food as it has a stronger smell and higher protein content which is appealing to dogs. I’ve tried mixing a few cat meal mixers into his meals, but it didn’t seem to entice him enough to finish his meal.
 - **Tripe** - Many people have said tripe does wonders even for the pickiest eaters. It also has a low phosphorus content compared to other protein/animal organs, which is good for kidneys.  It can be a little difficult finding tripe, though there are a few online stores that sell them frozen.  There are also a few canned or air-dried tripe products that may be available at local pet stores or on Chewy/Amazon.
 	- Ziwi Peak has air-dried lamb green tripe. This is more of a treat rather than meal. Arlo tends to bury these instead of eat them.
 	- Tripett is a canned tripe product.  I tried this with Arlo, but unfortunately he wasn’t a fan.
+	- Vital Essentials has a freeze-dried beef tripe. Arlo likes this as a treat.
 - **Ground Beef -** This is another one that has worked for many others. Adding some plain ground beef to Arlo’s food works occasionally, but not all the time. 
 - **Baby food (Turkey, Chicken) -** I’ve heard this works for others. I tried it with Arlo a few times but it didn’t work.
 - **Eggs -** Arlo likes eggs and I’ve heard others make “omelettes” to entice their dogs to eat. I’ve tried this but Arlo unfortunately didn’t eat when eggs were added to his food. Instead, I now just give him eggs separately once or twice a week as a treat.
-- **Cream Cheese -** didn’t work for Arlo, but I’ve heard work for others.
+- **Cheese/Cream Cheese -** Didn’t work for Arlo, but I’ve heard work for others.
 - **Butter -** Arlo loves butter! Our vet actually recommended this to us. I usually use butter to hide Arlo’s medicine and supplements, and he gobbles it up. It’s also a good way to help Arlo keep up his caloric intake. Unfortunately, when adding some butter to his food, it doesn’t quite get him excited enough to eat. Maybe I need to add even more.
 - **Blueberries** - Arlo also loves blueberries, but adding it to his food doesn’t do anything.
 - **Goat milk** - Another one of Arlo’s favorites. It also has a lot of healthy benefits for dogs and is a good way to help dogs stay hydrated and add a little bit of calories. I usually give goat milk separate from his meals, but sometimes mixing into the meal helps him eat, other times it doesn’t 
