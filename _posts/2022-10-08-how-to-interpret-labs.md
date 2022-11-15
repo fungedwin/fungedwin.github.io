@@ -8,7 +8,7 @@ When I first saw Arlo’s bloodwork report in May, I was a little overwhelmed by
 
 Renal Dysplasia and Chronic Kidney Disease are considered progressive (gets worse over time). After diagnosis, vets determine the stage of chronic kidney disease (CKD) based on bloodwork.  IRIS (International Renal Interest Society) defines 4 stages of kidney disease (Stage 1 being the earliest, Stage 4 being the last, end-stage). I have also seen some literature talking about Stage 5 kidney disease. The staging is mostly based on Creatinine (CREA) and SDMA values in the bloodwork. 
 
-```markdown
+
 | Stage      | Creatinine (µmol/l) |  Creatinine (mg/dl) | SDMA |
 | ---------- | ----------- |----------- |----------- |
 | 1 | <125 | <1.4 | <18 |
@@ -16,7 +16,6 @@ Renal Dysplasia and Chronic Kidney Disease are considered progressive (gets wors
 | 3 | 251-440 | 2.9-5.0 | 36-54 |
 | 4 | >440 | >5.0 | >54 |
 
-```
 
 When Arlo had his first bloodwork done in May 2022, he was at stage 2 (SDMA). 
 
