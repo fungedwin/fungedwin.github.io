@@ -34,5 +34,5 @@ The ultrasound showed severe changes to both his kidneys, and he was diagnosed w
 <br><i>Arlo the day of his ultrasound</i>
 </div>
 
-# See Part 2 (on the first 3 months post diagnosis) here.
+# See Part 2 (on the first 3 months post diagnosis) [here](/journey2).
 
