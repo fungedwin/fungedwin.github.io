@@ -23,7 +23,7 @@ Like other dog owners supporting dogs with kidney disease, I’ve tried many thi
 - **Entyce**- This is a vet-prescribed appetite-stimulant medication that we now give on a daily basis. It's a liquid medication. Arlo hates the medication, but it works.  Since starting him on the medication, Arlo has gained quite a few pounds and is now close to a healthy/ideal weight. I was initially very hesitant to give this medication regularly and was trying to just give it on a “as-needed” basis a few times a week, as I didn’t want Arlo to be reliant on it. The research study for the efficacy of the medication was also only done based on 4-days not long-term. However, as time went by, we found that we were relying on this medication more and more, and it thankfully still works.
 - **Cerenia** - This was a vet-prescribed anti-nausea medication that we tried for a few days, but it didn’t seem to have any effect. Other people find it helpful.
 - **Odansetron** - This is another vet-prescribed anti-nausea medication that we started trying with Arlo in September. It doesn’t seem to improve his appetite, but Arlo does seem more energetic since starting this medication. After a month or so, we decided to stop the medication since it wasn't helping his appetite.
-- **Mirtazepine** - This is another appetite stimulant medication. It's in pill form, which is easier for us to give than liquid-form medications. We tried it for a few days with Arlo but it didn't seem to have any effect unfortunately. 
+- **Mirtazapine** - This is another appetite stimulant medication. It's in pill form, which is easier for us to give than liquid-form medications. We tried it for a few days with Arlo but it didn't seem to have any effect unfortunately. 
 
 ### Enticing with food
 
