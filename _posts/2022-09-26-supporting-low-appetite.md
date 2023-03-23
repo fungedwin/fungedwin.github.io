@@ -44,5 +44,6 @@ Ideally I would like to get Arlo to eat using food instead of medication. Here�
 - **Blueberries** - Arlo also loves blueberries, but adding it to his food doesn’t do anything.
 - **Goat milk** - Another one of Arlo’s favorites. It also has a lot of healthy benefits for dogs and is a good way to help dogs stay hydrated and add a little bit of calories. I usually give goat milk separate from his meals, but sometimes mixing into the meal helps him eat, other times it doesn’t.
 - **Broth** - I’ve tried adding broth to Arlo’s food a few times, but it doesn’t help his appetite.
+- **Chicken Heart** - Arlo loves freeze-dried chicken hearts and I often add a couple crushed up in his meal to try and entice him. Chicken hearts are considered a healthy treat for Arlo since it is high in taurine, which is helpful for his heart disease. 
 
 Overall, other than Entyce medication, I still haven’t found the fool-proof secrets to helping increase Arlo’s appetite. I’ll keep trying and add to the list.
